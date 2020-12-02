@@ -8,4 +8,4 @@ This was an old JavaScript app that i remade with react and GSAP.
 *  react-bootstrap v1.4.0
 
 ## Note
-I made the JavaScript version of this page when i started of with Programming. I really like the aestethics oand the simple animation of the page, so i decided to remake it in React.
+I made the JavaScript version of this page when i started of with Programming. I really like the aestethics and the simple animations of the page, so i decided to remake it in React just for fun.
