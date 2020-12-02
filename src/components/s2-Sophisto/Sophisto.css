@@ -1,0 +1,16 @@
+.Sophisto img{
+    width: 80%;
+    opacity: 0;
+}
+.s2-p-container{
+    border-left: 2px solid orange;
+    line-height: 1.8;
+    font-weight: 500;
+    opacity: 0;
+    position: relative;
+    top: -5rem;
+}
+
+.Sophisto h1{
+    text-shadow: 1px 1px 1px grey;
+}

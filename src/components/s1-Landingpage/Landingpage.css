@@ -1,0 +1,20 @@
+.Landingpage{
+    height: 100vh;
+    background-image: url(./img/i8Landing.jpg);
+    background-repeat: no-repeat;
+    background-size: 129%;
+    background-position-x: -12rem;
+}
+
+.Landingpage h1 h3{
+    text-shadow: 1px 1px 1px black;
+}
+
+.title-container{
+    position:"relative";
+    bottom: 2.2rem;
+}
+
+.bmw-logo{
+    width: 18%;
+}

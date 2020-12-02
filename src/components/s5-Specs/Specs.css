@@ -1,0 +1,21 @@
+.Specs{
+    height: 100vh;
+    background-image: url(./img/i8Sophisto.jpg);
+}
+
+.spec-container{
+    background-color: rgba(20, 20, 20, 0.8);
+    border-radius: 0.5rem;
+}
+
+.border-bottom-orange{
+    border-bottom: 1px solid orange;
+}
+
+.specBtns{
+    background-color: transparent;
+    border: 0;
+    width: 100%;
+    color: white;
+    outline: none !important;
+}
