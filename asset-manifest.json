@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-bmw-i8/static/css/main.8423a8a8.chunk.css",
+    "main.js": "/react-bmw-i8/static/js/main.ec370260.chunk.js",
+    "main.js.map": "/react-bmw-i8/static/js/main.ec370260.chunk.js.map",
+    "runtime-main.js": "/react-bmw-i8/static/js/runtime-main.f1e7a849.js",
+    "runtime-main.js.map": "/react-bmw-i8/static/js/runtime-main.f1e7a849.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/react-bmw-i8/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b487799c.chunk.js": "/react-bmw-i8/static/js/2.b487799c.chunk.js",
+    "static/js/2.b487799c.chunk.js.map": "/react-bmw-i8/static/js/2.b487799c.chunk.js.map",
+    "static/js/3.da3dd95c.chunk.js": "/react-bmw-i8/static/js/3.da3dd95c.chunk.js",
+    "static/js/3.da3dd95c.chunk.js.map": "/react-bmw-i8/static/js/3.da3dd95c.chunk.js.map",
+    "index.html": "/react-bmw-i8/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/react-bmw-i8/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8423a8a8.chunk.css.map": "/react-bmw-i8/static/css/main.8423a8a8.chunk.css.map",
+    "static/js/2.b487799c.chunk.js.LICENSE.txt": "/react-bmw-i8/static/js/2.b487799c.chunk.js.LICENSE.txt",
+    "static/media/BMWlogo.da256a8b.png": "/react-bmw-i8/static/media/BMWlogo.da256a8b.png",
+    "static/media/Landingpage.css": "/react-bmw-i8/static/media/i8Landing.49f914f8.jpg",
+    "static/media/Specs.css": "/react-bmw-i8/static/media/i8Sophisto.c08a4dc8.jpg",
+    "static/media/sophistoEdition.1e4696a0.jpg": "/react-bmw-i8/static/media/sophistoEdition.1e4696a0.jpg",
+    "static/media/Interior.css": "/react-bmw-i8/static/media/sophistoInterior1.191bf7bb.jpg",
+    "static/media/sophistoInterior2.2670ef8c.jpg": "/react-bmw-i8/static/media/sophistoInterior2.2670ef8c.jpg",
+    "static/media/sophistoInterior3.e10be591.jpg": "/react-bmw-i8/static/media/sophistoInterior3.e10be591.jpg",
+    "static/media/sophistoInterior4.9edf3680.jpg": "/react-bmw-i8/static/media/sophistoInterior4.9edf3680.jpg",
+    "static/media/sophistoInterior5.9b069520.jpg": "/react-bmw-i8/static/media/sophistoInterior5.9b069520.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1e7a849.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b487799c.chunk.js",
+    "static/css/main.8423a8a8.chunk.css",
+    "static/js/main.ec370260.chunk.js"
+  ]
+}
